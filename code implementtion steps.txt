@@ -10,4 +10,3 @@ The model is compiled with an optimizer, loss function, and metrics.
 
 We train the model using the training data and evaluate its performance on the test data.
 
-Please note that this is a simple example for demonstration purposes. In real-world scenarios, you may want to use more complex architectures and tune hyperparameters for better performance. Additionally, you can adjust the regularization strength (0.01 in this example) and other hyperparameters to fit your specific requirements.

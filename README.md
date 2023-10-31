@@ -3,3 +3,4 @@ name:ashishj
 usn:4ni20is026
 subject:deep learning
 faculty:Mayura D T madam
+topic: l2 regularization
